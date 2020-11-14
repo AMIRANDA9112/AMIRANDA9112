@@ -33,9 +33,6 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 ---
 
-
-### You can find in me in the web 🌍
-
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -43,9 +40,7 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 <br/>
 
-
 ---
-
 
 **Check the Repositories and don't forget to give a star.** 👇
 

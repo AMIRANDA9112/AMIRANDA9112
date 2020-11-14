@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1jz0sn24DC7DRXgMj0poho43az7GiQ4BG/view?usp=sharing" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://ibb.co/Q9DvLL1" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:

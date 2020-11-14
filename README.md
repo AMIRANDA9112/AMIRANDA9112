@@ -8,20 +8,20 @@
 
 I am a Full-stack Software Engineer at Holberton School, Machine Learning and Image Processing apassionate
  
- 🔭 I’m planning for a Project **React/Django Personal Web**.
+ 🔭 I’m planning for a Project **React/Django Personal Web**
  
  🌱 I’m currently learning **React/Django**.
  
  :books: I want to learn **Go lenguage, Machine Learning**
  
- 👯 I’m looking for a job how **Backend Developer**.
+ 👯 I’m looking for a job how **Backend Developer**
   
- 💬 Ask me about Video Processing, Web Development, and any topic. 
+ 💬 Ask me about **Video Processing, Web Development, and any topic** 
  
- :hearth: I love the Science & Culture.
+ :heart: I love **Science, Politic & Culture**
 
 
-![Profile views](https://gpvc.arturio.dev/Amiranda9112)  <img src="https://img.shields.io/github/followers/Amiranda9112?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Amiranda9112)  <img src="https://img.shields.io/github/followers/Amiranda9112?label=Followers" style=" float:left, margin-right:10px" />
 
 
 ---

@@ -33,10 +33,6 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 ---
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/amiranda9112)
-
----
-
 
 ### You can find in me in the web 🌍
 

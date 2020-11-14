@@ -30,8 +30,7 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiranda9112&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMIRANDA9112&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amiranda9112)](https://github.com/anuraghazra/github-readme-stats)

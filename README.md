@@ -1,7 +1,3 @@
-### Hey here 👋
-
----
-
 
 <img src="https://github.com/AMIRANDA9112/AMIRANDA9112/blob/main/img.png" width="80%" title="Intro Card" alt="Intro Card">
 

@@ -8,6 +8,10 @@
 
 ---
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amiranda9112&include_all_commits=true)
+
+---
+
 I am a Full-stack Software Engineer at Holberton School, Machine Learning and Image Processing apassionate
  
  🔭 I’m planning for a Project **React/Django Personal Web**
@@ -33,21 +37,16 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amiranda9112&include_all_commits=true)
-
----
-
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/amiranda9112)
 
 ---
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -55,14 +54,12 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 ---
 
 
-Let's connect 👨‍💻 and forge the future together.😁✌
-
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [AMIRANDA9112](https://github.com/AMIRANDA9112)
 
 
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[twitter]: https://twitter.com/AelFm
+[youtube]: https://www.youtube.com/channel/UCyPaDJSeZbBsj96bZ8-jQqQ
+[linkedin]: https://www.linkedin.com/in/andres-miranda-2451b51a1/
+[medium]: https://andreselfm.medium.com/

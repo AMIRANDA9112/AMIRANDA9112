@@ -34,7 +34,7 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 ---
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amiranda9112)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amiranda9112)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

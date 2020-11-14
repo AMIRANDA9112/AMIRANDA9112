@@ -28,14 +28,11 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiranda9112&layout=compact)
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amiranda9112)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/amiranda9112)
 
 ---
 

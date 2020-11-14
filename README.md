@@ -33,7 +33,7 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 ---
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AMIRANDA9112)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amiranda9112&include_all_commits=true)
 
 ---
 

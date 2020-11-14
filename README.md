@@ -30,7 +30,7 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 ### Tech & Tools Preference
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amiranda9112&theme=vue&show_icons=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranda9112&layout=compact&theme=vue&langs_count=6" alt="My github stats"/>
 </p>
 
 ### Other Languages I know

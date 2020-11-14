@@ -1,9 +1,9 @@
-### Hey Sourav here 👋
+### Hey here 👋
 
 ---
 
 <p align="center">
-  <img src="https://ibb.co/Q9DvLL1" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/AMIRANDA9112/AMIRANDA9112/blob/main/img.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:

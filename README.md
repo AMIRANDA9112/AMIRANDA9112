@@ -42,10 +42,6 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 
 ---
 
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [AMIRANDA9112](https://github.com/AMIRANDA9112)
-
 
 [twitter]: https://twitter.com/AelFm
 [youtube]: https://www.youtube.com/channel/UCyPaDJSeZbBsj96bZ8-jQqQ

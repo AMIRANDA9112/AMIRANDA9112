@@ -2,9 +2,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/AMIRANDA9112/AMIRANDA9112/blob/main/img.png" width="80%" title="Intro Card" alt="Intro Card">
-</p>
+
+<img src="https://github.com/AMIRANDA9112/AMIRANDA9112/blob/main/img.png" width="80%" title="Intro Card" alt="Intro Card">
+
+
+---
 
 I am a Full-stack Software Engineer at Holberton School, Machine Learning and Image Processing apassionate
  
@@ -19,6 +21,8 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
  💬 Ask me about **Video Processing, Web Development, and any topic** 
  
  :heart: I love **Science, Politic & Culture**
+ 
+ ---
 
 
 ![Profile views](https://gpvc.arturio.dev/Amiranda9112)  <img src="https://img.shields.io/github/followers/Amiranda9112?label=Followers" style=" float:left, margin-right:10px" />
@@ -31,6 +35,8 @@ I am a Full-stack Software Engineer at Holberton School, Machine Learning and Im
 ---
 
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amiranda9112)
+
+---
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/amiranda9112)
 
